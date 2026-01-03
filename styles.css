@@ -1,0 +1,26 @@
+#head{
+    position: absolute ;
+    left: 300px;
+    top: 50px;
+    border: solid yellowgreen 10px;
+    background-color: aquamarine;
+    font-size: x-large;
+    text-align: center;
+}
+.imge{
+    position: absolute;
+    left: 50px;
+    
+}
+.btn{
+    position: absolute;
+    top: 1600px;
+    left: 80px;
+    
+    
+}
+button{
+    padding: 15px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+}
