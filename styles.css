@@ -8,13 +8,14 @@
     text-align: center;
 }
 .imge{
-    position: absolute;
+    position: relative;
+    top: 350px;
     left: 50px;
     
 }
 .btn{
-    position: absolute;
-    top: 1600px;
+    position: relative;
+    top: 700px;
     left: 80px;
     
     
@@ -22,5 +23,33 @@
 button{
     padding: 15px 20px;
     font-size: 20px;
-    border-radius: 5px;
+    border-radius: 20px;
+    background-color: darkblue;
+    color: aliceblue;
+}
+.frm{
+    position: relative;
+    top: 500px;
+    left: 80px;
+    font-size: 30px;
+}
+.frm2{
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    border: solid black 20px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: aquamarine;
+    width: 300px;
+}
+.contact{
+    border: solid black 10px;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    width: 250px;
+    border-radius: 30px;
 }
